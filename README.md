@@ -6,7 +6,8 @@
 ![Sazenka](https://kadcad.cz/static/sazenka/screenshot.jpg)
 
 - 🌐 **Web version (no install):** https://kadcad.cz/sazenka
-- 🧩 **Archicad 29 add-on:** in preparation – it will place native Archicad objects with element ID and plant name, so Interactive Schedules count the plants. Downloads will appear under [Releases](../../releases).
+- ▶️ **Video tutorial (2 min):** https://youtu.be/425TA0yZnSg
+- 🧩 **Archicad add-on (Archicad 27–30):** places native Archicad objects with element ID and plant name, labels and a plant schedule table, so Interactive Schedules count the plants. Download: [latest release](https://github.com/Graff1701/sazenka/releases/latest).
 
 Languages: čeština, slovenčina, polski, українська, English, Deutsch, magyar, hrvatski/srpski, español.
 
